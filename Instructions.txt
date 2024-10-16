@@ -1,0 +1,14 @@
+Step 1: 
+create a text file and paste all of that shit
+Step 2:
+Save the file as example.py ( or anything you want) 
+Step 3:
+Open Command Center
+type C:\Users\example>python
+This will open a mini python example or install it if you dont alr have it
+Step 4:
+type quit() in the cmd
+Step 5:
+type C:\Users\example>pip install dhooks
+Step 6:
+Type C:\Users\example>python E:\folder\example.py
